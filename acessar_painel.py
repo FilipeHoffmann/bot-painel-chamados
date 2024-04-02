@@ -6,10 +6,7 @@ import sys
 class acessar_painel:
     def __init__(self,credenciais:tuple):
         self.credeciais = credenciais
-        
-    def sair_programa(self):
-        sys.exit()
-        
+
     def abrir_navegador(self):
         options = webdriver.ChromeOptions()
         options.add_argument("--start-fullscreen")
