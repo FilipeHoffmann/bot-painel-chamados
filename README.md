@@ -2,7 +2,6 @@
 O bot desenvolvido em Python automatiza a inicialização do painel de chamados da área da saúde no anexo da Prefeitura Municipal de Imbé/RS.
 
 ## Bibliotecas necessárias
-* PyAutoGUI</br>
 * Selenium
 * Keyboard
   
