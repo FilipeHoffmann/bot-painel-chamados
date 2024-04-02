@@ -4,6 +4,7 @@ O bot desenvolvido em Python automatiza a inicialização do painel de chamados 
 ## Bibliotecas necessárias
 * PyAutoGUI</br>
 * Selenium
+* Keyboard
   
 ## Configuração
 Para iniciar o script é necessário configurar o arquivo **credenciais.json** que possuí o seguinte formato:
